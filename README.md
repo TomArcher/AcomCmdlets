@@ -6,7 +6,7 @@ PowerShell cmdlets to work with ACOM MD files
 ## Topics covered
 - [Setting up your PowerShell environment](#setting-up-your-powershell-environment)
 - [Using the AcomCmdlets](#using-the-acomcmdlets)
-- [Getting help for syntax and examples](getting-help-for-syntax-and-examples)
+- [Getting help for syntax and examples](#getting-help-for-syntax-and-examples)
 
 ## Setting up your PowerShell environment
 (All of these steps need to be done only the first time you use the cmdlets)
