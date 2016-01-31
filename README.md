@@ -11,7 +11,7 @@ PowerShell cmdlets to work with ACOM MD files
 ## Setting up your PowerShell environment
 (All of these steps need to be done only the first time you use the cmdlets)
 
-1. Copy all files into the following directory:
+1. Copy all files from the Dist directory into the following directory:
 
   <YourLocalDocumentsFolder>\WindowsPowerShell\Modules\AcomCmdlets
 
