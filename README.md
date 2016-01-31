@@ -45,13 +45,13 @@ To make the cmdlet easier to use, parameters have been added to reduce typing.
 
     	PS> dir *.md | Get-AcomArticle -stale
     	
-  	  PS> dir *.md | Get-AcomArticle | where { $_.pubdate.AddDays(90) -le [System.DateTime]::Now } 
+  	    PS> dir *.md | Get-AcomArticle | where { $_.pubdate.AddDays(90) -le [System.DateTime]::Now } 
 
 - **-StaleWithin** allows you to filter based on when an article will go stale. For example, the following filters for all stale articles and articles that will be stale within 14 days:
 
     	PS> dir *.md | Get-AcomArticle -stalewithin 14
   	  
-  	  PS> dir *.md | Get-AcomArticle | where { $_.pubdate.AddDays(76) -le [System.DateTime]::Now } 
+  	    PS> dir *.md | Get-AcomArticle | where { $_.pubdate.AddDays(76) -le [System.DateTime]::Now } 
 
 ## Getting help for syntax and examples
 To get syntax help and to view examples of using the Get-AcomArticle cmdlet, use the Get-Help cmdlet as follows:
