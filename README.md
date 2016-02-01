@@ -13,7 +13,7 @@ PowerShell cmdlets to work with ACOM MD files
 
 1. Copy all files from the Dist directory into the following directory:
 
-  <YourLocalDocumentsFolder>\WindowsPowerShell\Modules\AcomCmdlets
+  &lt;YourLocalDocumentsFolder>\WindowsPowerShell\Modules\AcomCmdlets
 
 1. Right-click each file and select the **Properties** context menu. From the **General** tab, select **Unblock**.
 
