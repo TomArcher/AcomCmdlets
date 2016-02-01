@@ -15,13 +15,15 @@ PowerShell cmdlets to work with ACOM MD files
 
   <YourLocalDocumentsFolder>\WindowsPowerShell\Modules\AcomCmdlets
 
-2. Open the Windows PowerShell app as Administrator
+1. Right-click each file and select the Properties context menu. From the General tab, select Unblock.
 
-3. Set the execution policy so that you can run the cmdlet. 
+1. Open the Windows PowerShell app as Administrator
+
+1. Set the execution policy so that you can run the cmdlet. 
 
   PS> Set-ExecutionPolicy Unrestricted
 
-4. Import the module containing the cmdlets
+1. Import the module containing the cmdlets
 
   PS> Import-Module AcomCmdlets
 
