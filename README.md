@@ -15,7 +15,7 @@ PowerShell cmdlets to work with ACOM MD files
 
   <YourLocalDocumentsFolder>\WindowsPowerShell\Modules\AcomCmdlets
 
-1. Right-click each file and select the Properties context menu. From the General tab, select Unblock.
+1. Right-click each file and select the **Properties** context menu. From the **General** tab, select **Unblock**.
 
 1. Open the Windows PowerShell app as Administrator
 
