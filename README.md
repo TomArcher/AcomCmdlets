@@ -1,7 +1,7 @@
 # AcomCmdlets
-PowerShell cmdlets to work with ACOM MD files
+Windows PowerShell cmdlets to work with ACOM MD files
 
-**NOTE:** PowerShell is case insensitive. Capitalization used here for easier reading.
+**NOTE:** Windows PowerShell is case insensitive. Capitalization used here for easier reading.
 
 ## Topics covered
 - [Setting up your PowerShell environment](#setting-up-your-powershell-environment)
